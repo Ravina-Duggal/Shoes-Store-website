@@ -1,0 +1,114 @@
+&#8377;
++91 8725900068
+rgba(1, 41, 112, 0.6)
+
+
+   // const products = [
+    //     {
+    //         product_name: "Adidas",
+    //         price: "3500",
+    //         image: "product-1.jpg",
+    //         rating:"4.5"
+
+    //     },
+    //     {
+    //         product_name: "Puma",
+    //         price: "1500",
+    //         image: "product-2.jpg",
+    //         rating:"4.5"
+    //     },
+    //     {
+    //         product_name: "Nike",
+    //         price: "2500",
+    //         image: "product-3.jpg",
+    //         rating:"4.5"
+
+
+    //     },
+    //     {
+    //         product_name: "Nike",
+    //         price: "2599",
+    //         image: "product-4.jpg",
+    //         rating:"4.5"
+
+
+    //     },
+    //     {
+    //         product_name: "Nike",
+    //         price: "2599",
+    //         image: "product-4.jpg",
+    //         rating:"4.5"
+
+
+    //     },
+    //     {
+    //         product_name: "Adidas",
+    //         price: "3500",
+    //         image: "product-1.jpg",
+    //         rating:"4.5"
+
+
+    //     },
+    //     {
+    //         product_name: "Puma",
+    //         price: "1500",
+    //         image: "product-2.jpg",
+    //         rating:"4.5"
+
+
+    //     },
+    //     {
+    //         product_name: "Nike",
+    //         price: "2500",
+    //         image: "product-3.jpg",
+    //         rating:"4.5"
+
+
+    //     },
+    //     {
+    //         product_name: "Adidas",
+    //         price: "3500",
+    //         image: "product-1.jpg",
+    //         rating:"4.5"
+
+
+    //     },
+    //     {
+    //         product_name: "Puma",
+    //         price: "1500",
+    //         image: "product-2.jpg",
+    //         rating:"4.5"
+
+
+    //     },
+    //     {
+    //         product_name: "Nike",
+    //         price: "2500",
+    //         image: "product-3.jpg",
+    //         rating:"4.5"
+
+
+    //     },
+    //     {
+    //         product_name: "Nike",
+    //         price: "2599",
+    //         image: "product-4.jpg",
+    //         rating:"4.5"
+
+
+    //     },
+
+    // ]
+
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css"
+  integrity="sha384-pzjw9UqYK4KlGwtpxpxjz4z4gBMOY6U8sHYkG27TpULk8fLmSfHykP3ES4Wq27N/"
+  crossorigin="anonymous"
+/>
+
+<script
+  src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-pzjw9UqYK4KlGwtpxpxjz4z4gBMOY6U8sHYkG27TpULk8fLmSfHykP3ES4Wq27N/"
+  crossorigin="anonymous"
+></script>
